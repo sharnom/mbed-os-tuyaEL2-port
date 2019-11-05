@@ -28,8 +28,8 @@
 #define I2C_SCL P6_0
 #define I2C_SDA P6_1
 
-#define UART_RX P5_0
-#define UART_TX P5_1
+#define UART_RX P13_0
+#define UART_TX P13_1
 #define UART_RTS P5_2
 #define UART_CTS P5_3
 
