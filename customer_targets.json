@@ -1,0 +1,9 @@
+{
+    "TUYAEL2_062S2_43012": {
+        "inherits": ["CY8CMOD_062S2_43012"],
+        "detect_code": ["1234"],
+        "post_binary_hook": {
+            "function": "PSOC6Code.complete"
+        }
+    }
+}
